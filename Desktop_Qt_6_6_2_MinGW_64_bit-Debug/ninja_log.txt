@@ -1,0 +1,66 @@
+# ninja log v5
+9	599	7301469718614972	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+9	599	7301469718614972	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+654	720	7301192980560998	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/EWIEGA46WW/qrc_res.cpp	7c54e673e857d5b6
+9	599	7301469718614972	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+9	599	7301469718614972	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+599	3242	7301469745624757	CMakeFiles/MainCalculator.dir/main.cpp.obj	c152ea299aee12a8
+654	720	7301192980560998	MainCalculator_autogen/EWIEGA46WW/qrc_res.cpp	7c54e673e857d5b6
+728	1324	7301192986638441	CMakeFiles/MainCalculator.dir/MainCalculator_autogen/EWIEGA46WW/qrc_res.cpp.obj	70c8863b4524828a
+602	3374	7301469746982117	CMakeFiles/MainCalculator.dir/MainCalculator_autogen/mocs_compilation.cpp.obj	cc9ecbb54910d9c5
+606	3709	7301469750216064	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+3709	3922	7301469752366753	MainCalculator.exe	7b00e50eed7f08ea
+6	123	7301470395955667	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+6	123	7301470395955667	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+6	123	7301470395955667	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+6	123	7301470395955667	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+136	2522	7301470419997387	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+2523	2738	7301470422174873	MainCalculator.exe	7b00e50eed7f08ea
+8	145	7301470803662504	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+8	145	7301470803662504	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+8	145	7301470803662504	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+8	145	7301470803662504	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+158	2533	7301470827692696	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+2533	2748	7301470829676918	MainCalculator.exe	7b00e50eed7f08ea
+7	132	7301470988204630	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+7	132	7301470988204630	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+7	132	7301470988204630	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+7	132	7301470988204630	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+146	2579	7301471012742802	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+2580	2795	7301471014721200	MainCalculator.exe	7b00e50eed7f08ea
+8	136	7301471792101069	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+8	136	7301471792101069	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+8	136	7301471792101069	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+8	136	7301471792101069	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+150	2538	7301471815993927	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+2539	2754	7301471818132770	MainCalculator.exe	7b00e50eed7f08ea
+7	138	7301472071545070	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+7	138	7301472071545070	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+7	138	7301472071545070	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+7	138	7301472071545070	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+151	2564	7301472095935469	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+2565	2782	7301472098070360	MainCalculator.exe	7b00e50eed7f08ea
+7	124	7301508259167294	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+7	124	7301508259167294	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+7	124	7301508259167294	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+7	124	7301508259167294	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+137	2469	7301508282586283	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+2469	2691	7301508284720613	MainCalculator.exe	7b00e50eed7f08ea
+7	134	7301509751023072	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+7	134	7301509751023072	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+7	134	7301509751023072	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+7	134	7301509751023072	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+148	2494	7301509774641449	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+2494	2722	7301509776866815	MainCalculator.exe	7b00e50eed7f08ea
+8	130	7301511702211421	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+8	130	7301511702211421	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+8	130	7301511702211421	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+8	130	7301511702211421	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+143	2495	7301511725829838	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+2496	2709	7301511727951129	MainCalculator.exe	7b00e50eed7f08ea
+8	139	7301512124721030	MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+8	139	7301512124721030	MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+8	139	7301512124721030	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/timestamp	5e5ea4ec08b1748d
+8	139	7301512124721030	P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/mocs_compilation.cpp	5e5ea4ec08b1748d
+153	2540	7301512148642271	CMakeFiles/MainCalculator.dir/mainwindow.cpp.obj	5e30969de9de6836
+2540	2758	7301512150855760	MainCalculator.exe	7b00e50eed7f08ea
