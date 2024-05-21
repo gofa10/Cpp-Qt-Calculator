@@ -1,0 +1,23 @@
+{
+	"BUILD_DIR" : "P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen",
+	"CMAKE_BINARY_DIR" : "P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "P:/__Projects/Cpp Qt/MainCalculator",
+	"CMAKE_SOURCE_DIR" : "P:/__Projects/Cpp Qt/MainCalculator",
+	"INCLUDE_DIR" : "P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/MainCalculator_autogen/include",
+	"INPUTS" : 
+	[
+		"P:/__Projects/Cpp Qt/MainCalculator/root.png",
+		"P:/__Projects/Cpp Qt/MainCalculator/diff.png"
+	],
+	"LOCK_FILE" : "P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/MainCalculator_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.6.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/MainCalculator_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "P:/__Projects/Cpp Qt/MainCalculator/res.qrc",
+	"VERBOSITY" : 0
+}
