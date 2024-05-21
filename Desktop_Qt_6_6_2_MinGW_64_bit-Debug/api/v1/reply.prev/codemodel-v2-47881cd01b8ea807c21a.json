@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-5e52ba58c78078aa1c1c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MainCalculator",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MainCalculator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MainCalculator-Debug-9eeb0b0d5d03bbae4b27.json",
+					"name" : "MainCalculator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MainCalculator_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MainCalculator_autogen-Debug-4815918216dd94632fb8.json",
+					"name" : "MainCalculator_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "MainCalculator_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MainCalculator_autogen_timestamp_deps-Debug-97a6cf205a1f0b87a8ea.json",
+					"name" : "MainCalculator_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "P:/__Projects/Cpp Qt/MainCalculator/build/Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "P:/__Projects/Cpp Qt/MainCalculator"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
